@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Update Contact</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Update Contact</h1>
+        <form action="{{ url_for('update_contact', index=index) }}" method="POST">
+            <input type="text" name="name" value="{{ contact.name }}" required>
+            <input type="text" name="phone" value="{{ contact.phone }}" required>
+            <input type="email" name="email" value="{{ contact.email }}" required>
+            <input type="text" name="address" value="{{ contact.address }}" required>
+            <button type="submit">Update Contact</button>
+        </form>
+        <a href="{{ url_for('index') }}">Back to Contact List</a>
+    </div>
+</body>
+</html>
