@@ -14,16 +14,7 @@ Develop a Python-based To-Do List application to efficiently manage and organize
 - User-friendly command-line or GUI interface.
 - Simple yet effective tool for task management, suitable for student projects.
 
-#### Usage
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-2. Run the application:
-   ```bash
-   python todo_list.py
-   ```
+
 
 ---
 
@@ -38,16 +29,6 @@ Create a Python-based calculator to perform basic arithmetic operations.
 - Display the result.
 - Straightforward tool for learning and applying basic programming concepts, ideal for student projects.
 
-#### Usage
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-2. Run the application:
-   ```bash
-   python calculator.py
-   ```
 
 ---
 
@@ -61,16 +42,6 @@ Develop a Python application to generate secure, random passwords based on user-
 2. Generate: Create a password using a random mix of characters.
 3. Output: Display the generated password.
 
-#### Usage
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-2. Run the application:
-   ```bash
-   python password_generator.py
-   ```
 
 ---
 
@@ -87,16 +58,6 @@ Build a Python application to play Rock-Paper-Scissors against the computer.
 5. Replay: Ask if the user wants to play again.
 6. User Interface: Ensure a clear and intuitive interface.
 
-#### Usage
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-2. Run the application:
-   ```bash
-   python rock_paper_scissors.py
-   ```
 
 ---
 
@@ -114,38 +75,9 @@ Develop a Python application to manage contact information.
 6. Delete Contacts: Provide an option to remove contacts.
 7. User Interface: Design a clear and intuitive interface.
 
-#### Usage
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-2. Run the application:
-   ```bash
-   python contact_book.py
-   ```
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- **Python 3.x**: Ensure Python is installed on your system.
-
-### Installation Instructions
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-2. **Run the desired application** as shown in the usage sections above.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Author
-[Your Name]  
-[Your Email]  
 [Your GitHub Profile](https://github.com/YourGitHubUsername)
 
 ## Acknowledgments
