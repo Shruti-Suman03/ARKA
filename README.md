@@ -7,11 +7,11 @@ This repository contains a collection of Python applications developed using Fla
 ### TASK 1: To-Do List
 
 #### Objective
-Develop a Python-based To-Do List application to efficiently manage and organize tasks.
+Develop a Python-based To-Do List application to manage and organize tasks efficiently.
 
 #### Features
 - Create, update, and track tasks.
-- User-friendly command-line or GUI interface.
+- User-friendly command line or GUI interface.
 - Simple yet effective tool for task management, suitable for student projects.
 
 
@@ -77,9 +77,5 @@ Develop a Python application to manage contact information.
 
 
 ---
-
-[Your GitHub Profile](https://github.com/YourGitHubUsername)
-
 ## Acknowledgments
-- Inspired by the need for practical applications in Python.
 - Special thanks to the Python community for its resources and support.
