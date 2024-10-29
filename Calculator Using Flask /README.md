@@ -14,9 +14,7 @@ A simple, modern web-based calculator built using Python Flask for the backend a
 - **Frontend**: HTML, CSS
 - **Styling**: Custom CSS for modern design.
 
-## Prerequisites
 
-Make sure you have Python installed. You can download it from [Python's official website](https://www.python.org/downloads/).
 
 ### Install Flask
 
